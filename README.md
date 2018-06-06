@@ -7,7 +7,7 @@ LeafletとPixi.jsを使って、Leaflet上にWebGLオーバーレイできるラ
 
 
 
-[![screenshot](/docs/Leaflet.PixiOverlay.Trial)](https://manubb.github.io/Leaflet.PixiOverlay/demo.html)
+[![screenshot](docs/Leaflet.PixiOverlay.Trial.jpg)](https://manubb.github.io/Leaflet.PixiOverlay/demo.html)
 
 
 
